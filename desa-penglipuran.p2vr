@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node12</start>
     <panorama>
@@ -4951,7 +4951,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output-location/index.html</filename>
+          <filename>D:/Project Result/htdocs/desa-penglipuran/index.html</filename>
           <values>
             <value id="cachebust">true</value>
             <value id="css"/>
@@ -4981,7 +4981,7 @@
         </hotspotstyle>
         <webvr/>
         <tilesize>3990</tilesize>
-        <filename>output-location/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/desa-penglipuran/pano.xml</filename>
         <skinfile>$d/desa-penglipuran.ggsk</skinfile>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>

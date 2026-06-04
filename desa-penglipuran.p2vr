@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node12</start>
     <panorama>
@@ -164,17 +164,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>4.78183</start>
+          <start>5.86</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-13.0212</start>
+          <start>-3.13</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>136.836</start>
+          <start>130</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -189,7 +189,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-05-29T10:31:22</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-06-04T14:48:22</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -507,6 +507,146 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-26.52</pan>
+            <tilt>-7.23</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Topi Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-57.11</pan>
+            <tilt>-21.9</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-120.95</pan>
+            <tilt>-5.07</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Topeng Leak</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-149.83</pan>
+            <tilt>-3.36</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point06</id>
+          <title>Dream Catcher</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-193.58</pan>
+            <tilt>-18.59</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -585,6 +725,62 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-332.17</pan>
+            <tilt>-14.97</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Baju Pantai</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-151.52</pan>
+            <tilt>3.99</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Lonceng Bambu Angin</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2461,6 +2657,118 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-50.21</pan>
+            <tilt>-15.74</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Kain Endek</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-20.68</pan>
+            <tilt>-14.33</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-141.08</pan>
+            <tilt>-10.24</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Udeng</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-292.52</pan>
+            <tilt>-11.44</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point06</id>
+          <title>Baju Daster</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -2569,6 +2877,62 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-319.54</pan>
+            <tilt>-11.13</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Baju Daster</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-78.9</pan>
+            <tilt>-17.82</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Baju Adat</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2679,6 +3043,34 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-237.84</pan>
+            <tilt>11.79</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Lonceng Angin Bambu</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -2787,6 +3179,34 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-326.94</pan>
+            <tilt>10.54</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Lonceng Angin Bambu</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -4543,6 +4963,62 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-334.74</pan>
+            <tilt>-3.42</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Topeng Leak</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-25.58</pan>
+            <tilt>4.85</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Udeng</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -4586,9 +5062,11 @@
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2025-03-21T10:28:50+07:00</capturedatetime>
+        <capturedatetime>2025-03-21T10:28:50</capturedatetime>
         <datetime>3/21/2025 10:28 AM</datetime>
         <tags>panorama</tags>
+        <altitude>-3048</altitude>
+        <customnodeid>umkkm</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4651,6 +5129,90 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-68.02</pan>
+            <tilt>-5.18</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Tas Karya Tangan</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-271.99</pan>
+            <tilt>13.63</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-29.13</pan>
+            <tilt>-6.18</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Baju Pantai</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -5058,6 +5620,90 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-320.84</pan>
+            <tilt>2.65</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Lonceng Angin Bambu</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-39.71</pan>
+            <tilt>-14.13</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Kain Poleng</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-59.38</pan>
+            <tilt>-24.95</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Tas Rotan</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -5101,9 +5747,11 @@
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2025-03-21T10:28:52+07:00</capturedatetime>
+        <capturedatetime>2025-03-21T10:28:52</capturedatetime>
         <datetime>3/21/2025 10:28 AM</datetime>
         <tags>panorama</tags>
+        <altitude>-3048</altitude>
+        <customnodeid>umkm</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5136,6 +5784,90 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-127.81</pan>
+            <tilt>-18.21</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Dream Catcher</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-227.18</pan>
+            <tilt>-11.24</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Udeng / Ikat Kepala</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-204.58</pan>
+            <tilt>-36.26</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Topi Caping</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -5245,6 +5977,90 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-350.64</pan>
+            <tilt>25.48</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Kain Poleng</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-10.87</pan>
+            <tilt>14.29</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Kain Endek</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-57.83</pan>
+            <tilt>-7.61</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -5979,6 +6795,202 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-131.51</pan>
+            <tilt>-18.78</tilt>
+            <fov>20</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-171.24</pan>
+            <tilt>-37.49</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Kerincingan Kayu</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-210.61</pan>
+            <tilt>-2.9</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Kain Poleng</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-247.1</pan>
+            <tilt>-14.32</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point06</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-321.83</pan>
+            <tilt>-0.84</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-334.28</pan>
+            <tilt>-35.93</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point08</id>
+          <title>Rindik</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-54.6</pan>
+            <tilt>-0.25</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point09</id>
+          <title>Dream Catcher</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -6087,6 +7099,62 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-277.81</pan>
+            <tilt>-1.31</tilt>
+            <fov>21</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-213.87</pan>
+            <tilt>-6.88</tilt>
+            <fov>12</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Dream Catcher</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -6227,6 +7295,62 @@
           <width>50</width>
           <height>50</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-108.66</pan>
+            <tilt>-7.87</tilt>
+            <fov>9</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Topi Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-39.36</pan>
+            <tilt>0.59</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -6336,6 +7460,62 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-60.31</pan>
+            <tilt>10.87</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Baju Pantai</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-38.25</pan>
+            <tilt>-0.7</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Tas Rajut</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -6414,6 +7594,62 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-244.51</pan>
+            <tilt>-11.06</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Sarung Pantai</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-280.22</pan>
+            <tilt>-14.48</tilt>
+            <fov>16</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Kain Songket</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>box_ui_location_project</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/point-objek.png</customimage>
+          <urlsafecustomimage>point-objek.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>217</width>
+          <height>174</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -16216,11 +17452,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>176.56</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-20.45</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>130</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-06-04T14:49:55</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -16764,6 +18022,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone.png</customimage>
+          <urlsafecustomimage>drone.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -18130,16 +19389,32 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>178.58</start>
+          <min>0</min>
+          <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-10.33</start>
+          <min>-90</min>
+          <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>130</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-06-04T14:51:36</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -18392,6 +19667,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -19737,7 +21013,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output-location/index.html</filename>
+          <filename>D:/Project Result/htdocs/desa-penglipuran/index.html</filename>
           <values>
             <value id="cachebust">true</value>
             <value id="css"/>
@@ -19767,7 +21043,7 @@
         </hotspotstyle>
         <webvr/>
         <tilesize>3990</tilesize>
-        <filename>output-location/pano.xml</filename>
+        <filename>D:/Project Result/htdocs/desa-penglipuran/pano.xml</filename>
         <skinfile>$d/desa-penglipuran.ggsk</skinfile>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>

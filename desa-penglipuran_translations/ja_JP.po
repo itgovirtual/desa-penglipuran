@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr ""
+
+#. Skin Element Text: Muncul / Text
+msgid "Tampilkan Menu"
+msgstr ""
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr ""
+
+#. Skin Element Text: Sembunyi / Text
+msgid "Sembunyikan Menu"
+msgstr ""
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_mobile / Text
+msgid "Desa Pariwisata Penglipuran"
+msgstr ""
+
+#. Skin Element Text: Text 1222 / Text
+msgid "UBAH LOKASI"
+msgstr ""
+
+#. Skin Element Text: Text 1222ssss / Text
+msgid "Gerbang Utama"
+msgstr ""
+
+#. Skin Element Text: Text 1_1 / Text
+#. Skin Element Text: Text 1_122 / Text
+msgid "Drone"
+msgstr ""
+
+#. Skin Element Text: Text 1_1_1s2a / Text
+#. Skin Element Text: Text 1_1_1sa / Text
+msgid "Malam"
+msgstr ""
+
+#. Skin Element Text: Text 1_1_1sss / Text
+#. Skin Element Text: Text 1_1_1sss2 / Text
+msgid "Siang"
+msgstr ""
+
+#. Skin Element Text: Text 23222 / Text
+msgid "Jalan Utama"
+msgstr ""
+
+#. Skin Element Text: Text 2323 / Text
+msgid "Catus Pata"
+msgstr ""
+
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr ""
+
+#. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: text welcome / Text
+#. Skin Element Text: text welcome_mobile / Text
+msgid ""
+"Selamat datang di Desa Penglipuran, sebuah permata tersembunyi di pulau Bali "
+"yang memancarkan keindahan budaya dan kearifan lokal. Terletak di kaki "
+"Gunung Batur, Waktu tempuh dari Ubud ke Desa Penglipuran sekitar 1 jam. Desa "
+"ini telah memperoleh berbagai penghargaan sebagai desa terbersih di "
+"Indonesia dan sebagai pelopor dalam menjaga kelestarian alamnya."
+msgstr ""

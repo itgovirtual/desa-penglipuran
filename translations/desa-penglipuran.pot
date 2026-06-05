@@ -1,0 +1,1119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node11 / User Data Date && Time
+#. Node: node12 / User Data Date && Time
+#. Node: node13 / User Data Date && Time
+#. Node: node14 / User Data Date && Time
+#. Node: node15 / User Data Date && Time
+#. Node: node16 / User Data Date && Time
+#. Node: node17 / User Data Date && Time
+#. Node: node18 / User Data Date && Time
+#. Node: node19 / User Data Date && Time
+#. Node: node20 / User Data Date && Time
+#. Node: node21 / User Data Date && Time
+#. Node: node22 / User Data Date && Time
+#. Node: node23 / User Data Date && Time
+#. Node: node24 / User Data Date && Time
+#. Node: node25 / User Data Date && Time
+#. Node: node26 / User Data Date && Time
+#. Node: node27 / User Data Date && Time
+#. Node: node28 / User Data Date && Time
+#. Node: node29 / User Data Date && Time
+#. Node: node30 / User Data Date && Time
+#. Node: node31 / User Data Date && Time
+#. Node: node32 / User Data Date && Time
+#. Node: node33 / User Data Date && Time
+#. Node: node34 / User Data Date && Time
+#. Node: node35 / User Data Date && Time
+#. Node: node36 / User Data Date && Time
+#. Node: node37 / User Data Date && Time
+#. Node: node38 / User Data Date && Time
+#. Node: node39 / User Data Date && Time
+#. Node: node70 / User Data Date && Time
+#. Node: node71 / User Data Date && Time
+#. Node: node73 / User Data Date && Time
+#. Node: node74 / User Data Date && Time
+#. Node: node75 / User Data Date && Time
+#. Node: node76 / User Data Date && Time
+#. Node: node77 / User Data Date && Time
+#. Node: node78 / User Data Date && Time
+#. Node: node79 / User Data Date && Time
+#. Node: node80 / User Data Date && Time
+#. Node: node81 / User Data Date && Time
+#. Node: node82 / User Data Date && Time
+#. Node: node83 / User Data Date && Time
+#. Node: node84 / User Data Date && Time
+#. Node: node85 / User Data Date && Time
+#. Node: node86 / User Data Date && Time
+#. Node: node87 / User Data Date && Time
+#. Node: node88 / User Data Date && Time
+msgid "3/21/2025 10:29 AM"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+#. Node: node12 / Point Hotspot: Point03 / Title
+#. Node: node16 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point02 / Title
+#. Node: node19 / Point Hotspot: Point01 / Title
+#. Node: node19 / Point Hotspot: Point02 / Title
+#. Node: node22 / Point Hotspot: Point02 / Title
+#. Node: node22 / Point Hotspot: Point03 / Title
+#. Node: node25 / Point Hotspot: Point01 / Title
+#. Node: node25 / Point Hotspot: Point02 / Title
+#. Node: node25 / Point Hotspot: Point03 / Title
+#. Node: node27 / Point Hotspot: Point01 / Title
+#. Node: node27 / Point Hotspot: Point02 / Title
+#. Node: node46 / Point Hotspot: Point04 / Title
+#. Node: node91 / Point Hotspot: Point03 / Title
+#. Node: node108 / Point Hotspot: Point01 / Title
+#. Node: node126 / Point Hotspot: Point01 / Title
+#. Node: node127 / Point Hotspot: Point01 / Title
+#. Node: node157 / Point Hotspot: Point03 / Title
+msgid "Gapura"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node13 / Point Hotspot: Point02 / Title
+#. Node: node16 / Point Hotspot: Point03 / Title
+#. Node: node18 / Point Hotspot: Point02 / Title
+#. Node: node21 / Point Hotspot: Point01 / Title
+#. Node: node21 / Point Hotspot: Point02 / Title
+#. Node: node24 / Point Hotspot: Point01 / Title
+#. Node: node103 / Point Hotspot: Point03 / Title
+#. Node: node104 / Point Hotspot: Point02 / Title
+msgid "Tempat Ibadah"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point03 / Title
+#. Node: node98 / Point Hotspot: Point03 / Title
+#. Node: node100 / Point Hotspot: Point01 / Title
+#. Node: node101 / Point Hotspot: Point02 / Title
+#. Node: node103 / Point Hotspot: Point02 / Title
+#. Node: node105 / Point Hotspot: Point02 / Title
+#. Node: node111 / Point Hotspot: Point02 / Title
+#. Node: node114 / Point Hotspot: Point01 / Title
+#. Node: node115 / Point Hotspot: Point02 / Title
+#. Node: node131 / Point Hotspot: Point02 / Title
+#. Node: node132 / Point Hotspot: Point01 / Title
+#. Node: node137 / Point Hotspot: Point03 / Title
+msgid "Area Parkir"
+msgstr ""
+
+#. Node: node12 / Point Hotspot: Point02 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+#. Node: node17 / Point Hotspot: Point02 / Title
+#. Node: node20 / Point Hotspot: Point01 / Title
+#. Node: node20 / Point Hotspot: Point02 / Title
+#. Node: node22 / Point Hotspot: Point01 / Title
+#. Node: node23 / Point Hotspot: Point01 / Title
+#. Node: node23 / Point Hotspot: Point02 / Title
+#. Node: node26 / Point Hotspot: Point01 / Title
+#. Node: node26 / Point Hotspot: Point02 / Title
+#. Node: node28 / Point Hotspot: Point01 / Title
+#. Node: node28 / Point Hotspot: Point02 / Title
+#. Node: node29 / Point Hotspot: Point01 / Title
+#. Node: node29 / Point Hotspot: Point02 / Title
+#. Node: node36 / Point Hotspot: Point01 / Title
+#. Node: node36 / Point Hotspot: Point02 / Title
+#. Node: node37 / Point Hotspot: Point01 / Title
+#. Node: node37 / Point Hotspot: Point02 / Title
+#. Node: node41 / Point Hotspot: Point01 / Title
+#. Node: node41 / Point Hotspot: Point02 / Title
+#. Node: node42 / Point Hotspot: Point01 / Title
+#. Node: node42 / Point Hotspot: Point02 / Title
+#. Node: node43 / Point Hotspot: Point01 / Title
+#. Node: node43 / Point Hotspot: Point02 / Title
+#. Node: node44 / Point Hotspot: Point01 / Title
+#. Node: node44 / Point Hotspot: Point02 / Title
+#. Node: node45 / Point Hotspot: Point01 / Title
+#. Node: node45 / Point Hotspot: Point02 / Title
+#. Node: node46 / Point Hotspot: Point01 / Title
+#. Node: node46 / Point Hotspot: Point02 / Title
+#. Node: node47 / Point Hotspot: Point01 / Title
+#. Node: node47 / Point Hotspot: Point02 / Title
+#. Node: node91 / Point Hotspot: Point01 / Title
+#. Node: node91 / Point Hotspot: Point02 / Title
+#. Node: node92 / Point Hotspot: Point01 / Title
+#. Node: node92 / Point Hotspot: Point02 / Title
+#. Node: node93 / Point Hotspot: Point01 / Title
+#. Node: node93 / Point Hotspot: Point02 / Title
+#. Node: node94 / Point Hotspot: Point01 / Title
+#. Node: node94 / Point Hotspot: Point02 / Title
+#. Node: node95 / Point Hotspot: Point01 / Title
+#. Node: node95 / Point Hotspot: Point02 / Title
+#. Node: node96 / Point Hotspot: Point01 / Title
+#. Node: node96 / Point Hotspot: Point02 / Title
+#. Node: node97 / Point Hotspot: Point01 / Title
+#. Node: node97 / Point Hotspot: Point02 / Title
+#. Node: node99 / Point Hotspot: Point01 / Title
+#. Node: node126 / Point Hotspot: Point02 / Title
+#. Node: node140 / Point Hotspot: Point02 / Title
+#. Node: node157 / Point Hotspot: Point01 / Title
+#. Node: node170 / Point Hotspot: Point01 / Title
+#. Node: node171 / Point Hotspot: Point01 / Title
+#. Node: node171 / Point Hotspot: Point02 / Title
+#. Node: node172 / Point Hotspot: Point01 / Title
+#. Node: node172 / Point Hotspot: Point02 / Title
+#. Node: node173 / Point Hotspot: Point01 / Title
+#. Node: node173 / Point Hotspot: Point02 / Title
+#. Node: node174 / Point Hotspot: Point01 / Title
+#. Node: node174 / Point Hotspot: Point02 / Title
+#. Node: node175 / Point Hotspot: Point01 / Title
+#. Node: node175 / Point Hotspot: Point02 / Title
+#. Node: node176 / Point Hotspot: Point01 / Title
+#. Node: node176 / Point Hotspot: Point02 / Title
+#. Node: node177 / Point Hotspot: Point01 / Title
+#. Node: node177 / Point Hotspot: Point02 / Title
+#. Node: node178 / Point Hotspot: Point01 / Title
+#. Node: node178 / Point Hotspot: Point02 / Title
+#. Node: node179 / Point Hotspot: Point01 / Title
+#. Node: node179 / Point Hotspot: Point02 / Title
+#. Node: node180 / Point Hotspot: Point01 / Title
+#. Node: node180 / Point Hotspot: Point02 / Title
+#. Node: node181 / Point Hotspot: Point01 / Title
+#. Node: node181 / Point Hotspot: Point02 / Title
+#. Node: node182 / Point Hotspot: Point01 / Title
+#. Node: node182 / Point Hotspot: Point02 / Title
+#. Node: node183 / Point Hotspot: Point01 / Title
+#. Node: node183 / Point Hotspot: Point02 / Title
+#. Node: node184 / Point Hotspot: Point01 / Title
+msgid "Desa Penglipuran"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node18 / Point Hotspot: Point01 / Title
+#. Node: node24 / Point Hotspot: Point02 / Title
+#. Node: node30 / Point Hotspot: Point01 / Title
+#. Node: node33 / Point Hotspot: Point01 / Title
+#. Node: node34 / Point Hotspot: Point01 / Title
+#. Node: node35 / Point Hotspot: Point01 / Title
+#. Node: node38 / Point Hotspot: Point01 / Title
+#. Node: node39 / Point Hotspot: Point01 / Title
+#. Node: node40 / Point Hotspot: Point01 / Title
+#. Node: node46 / Point Hotspot: Point03 / Title
+#. Node: node48 / Point Hotspot: Point01 / Title
+#. Node: node49 / Point Hotspot: Point01 / Title
+#. Node: node52 / Point Hotspot: Point01 / Title
+#. Node: node53 / Point Hotspot: Point01 / Title
+#. Node: node55 / Point Hotspot: Point01 / Title
+#. Node: node58 / Point Hotspot: Point01 / Title
+#. Node: node59 / Point Hotspot: Point01 / Title
+#. Node: node60 / Point Hotspot: Point02 / Title
+#. Node: node61 / Point Hotspot: Point01 / Title
+#. Node: node62 / Point Hotspot: Point01 / Title
+#. Node: node67 / Point Hotspot: Point01 / Title
+#. Node: node68 / Point Hotspot: Point01 / Title
+#. Node: node69 / Point Hotspot: Point01 / Title
+#. Node: node70 / Point Hotspot: Point01 / Title
+#. Node: node71 / Point Hotspot: Point01 / Title
+#. Node: node72 / Point Hotspot: Point01 / Title
+#. Node: node73 / Point Hotspot: Point01 / Title
+#. Node: node74 / Point Hotspot: Point01 / Title
+#. Node: node75 / Point Hotspot: Point01 / Title
+#. Node: node77 / Point Hotspot: Point01 / Title
+#. Node: node78 / Point Hotspot: Point01 / Title
+#. Node: node79 / Point Hotspot: Point01 / Title
+#. Node: node83 / Point Hotspot: Point01 / Title
+#. Node: node84 / Point Hotspot: Point01 / Title
+#. Node: node85 / Point Hotspot: Point01 / Title
+#. Node: node86 / Point Hotspot: Point01 / Title
+#. Node: node87 / Point Hotspot: Point01 / Title
+#. Node: node90 / Point Hotspot: Point01 / Title
+#. Node: node99 / Point Hotspot: Point02 / Title
+#. Node: node101 / Point Hotspot: Point01 / Title
+#. Node: node102 / Point Hotspot: Point02 / Title
+#. Node: node105 / Point Hotspot: Point01 / Title
+#. Node: node107 / Point Hotspot: Point01 / Title
+#. Node: node112 / Point Hotspot: Point01 / Title
+#. Node: node113 / Point Hotspot: Point01 / Title
+#. Node: node115 / Point Hotspot: Point01 / Title
+#. Node: node117 / Point Hotspot: Point01 / Title
+#. Node: node118 / Point Hotspot: Point01 / Title
+#. Node: node119 / Point Hotspot: Point02 / Title
+#. Node: node120 / Point Hotspot: Point01 / Title
+#. Node: node121 / Point Hotspot: Point01 / Title
+#. Node: node122 / Point Hotspot: Point01 / Title
+#. Node: node123 / Point Hotspot: Point01 / Title
+#. Node: node124 / Point Hotspot: Point01 / Title
+#. Node: node125 / Point Hotspot: Point01 / Title
+#. Node: node128 / Point Hotspot: Point02 / Title
+#. Node: node131 / Point Hotspot: Point01 / Title
+#. Node: node133 / Point Hotspot: Point02 / Title
+#. Node: node136 / Point Hotspot: Point02 / Title
+#. Node: node137 / Point Hotspot: Point02 / Title
+#. Node: node138 / Point Hotspot: Point02 / Title
+#. Node: node139 / Point Hotspot: Point01 / Title
+#. Node: node141 / Point Hotspot: Point01 / Title
+#. Node: node145 / Point Hotspot: Point01 / Title
+#. Node: node147 / Point Hotspot: Point02 / Title
+#. Node: node149 / Point Hotspot: Point01 / Title
+#. Node: node150 / Point Hotspot: Point01 / Title
+#. Node: node151 / Point Hotspot: Point01 / Title
+#. Node: node152 / Point Hotspot: Point01 / Title
+#. Node: node154 / Point Hotspot: Point01 / Title
+#. Node: node155 / Point Hotspot: Point01 / Title
+#. Node: node156 / Point Hotspot: Point02 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point02 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node23 / Point Hotspot: Point03 / Title
+#. Node: node30 / Point Hotspot: Point02 / Title
+#. Node: node31 / Point Hotspot: Point01 / Title
+#. Node: node31 / Point Hotspot: Point02 / Title
+#. Node: node32 / Point Hotspot: Point01 / Title
+#. Node: node32 / Point Hotspot: Point02 / Title
+#. Node: node36 / Point Hotspot: Point03 / Title
+#. Node: node43 / Point Hotspot: Point03 / Title
+#. Node: node48 / Point Hotspot: Point02 / Title
+#. Node: node49 / Point Hotspot: Point02 / Title
+#. Node: node50 / Point Hotspot: Point01 / Title
+#. Node: node50 / Point Hotspot: Point02 / Title
+#. Node: node51 / Point Hotspot: Point01 / Title
+#. Node: node53 / Point Hotspot: Point02 / Title
+#. Node: node54 / Point Hotspot: Point01 / Title
+#. Node: node56 / Point Hotspot: Point01 / Title
+#. Node: node62 / Point Hotspot: Point02 / Title
+#. Node: node63 / Point Hotspot: Point01 / Title
+#. Node: node63 / Point Hotspot: Point02 / Title
+#. Node: node64 / Point Hotspot: Point01 / Title
+#. Node: node64 / Point Hotspot: Point02 / Title
+#. Node: node65 / Point Hotspot: Point01 / Title
+#. Node: node66 / Point Hotspot: Point01 / Title
+#. Node: node92 / Point Hotspot: Point03 / Title
+#. Node: node96 / Point Hotspot: Point03 / Title
+#. Node: node97 / Point Hotspot: Point03 / Title
+#. Node: node159 / Point Hotspot: Point03 / Title
+#. Node: node159 / Point Hotspot: Point05 / Title
+#. Node: node161 / Point Hotspot: Point04 / Title
+#. Node: node161 / Point Hotspot: Point09 / Title
+#. Node: node164 / Point Hotspot: Point03 / Title
+#. Node: node165 / Point Hotspot: Point03 / Title
+msgid "Area UMKM"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point03 / Title
+#. Node: node64 / Point Hotspot: Point04 / Title
+msgid "Topi Rajut"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point04 / Title
+#. Node: node14 / Point Hotspot: Point07 / Title
+#. Node: node30 / Point Hotspot: Point04 / Title
+#. Node: node49 / Point Hotspot: Point04 / Title
+#. Node: node55 / Point Hotspot: Point05 / Title
+#. Node: node62 / Point Hotspot: Point03 / Title
+#. Node: node62 / Point Hotspot: Point06 / Title
+#. Node: node62 / Point Hotspot: Point07 / Title
+#. Node: node63 / Point Hotspot: Point03 / Title
+#. Node: node64 / Point Hotspot: Point05 / Title
+#. Node: node65 / Point Hotspot: Point04 / Title
+msgid "Tas Rajut"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point05 / Title
+#. Node: node48 / Point Hotspot: Point03 / Title
+msgid "Topeng Leak"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point06 / Title
+#. Node: node54 / Point Hotspot: Point02 / Title
+#. Node: node62 / Point Hotspot: Point09 / Title
+#. Node: node63 / Point Hotspot: Point04 / Title
+msgid "Dream Catcher"
+msgstr ""
+
+#. Node: node15 / Point Hotspot: Point02 / Title
+#. Node: node49 / Point Hotspot: Point05 / Title
+#. Node: node65 / Point Hotspot: Point03 / Title
+msgid "Baju Pantai"
+msgstr ""
+
+#. Node: node15 / Point Hotspot: Point03 / Title
+msgid "Lonceng Bambu Angin"
+msgstr ""
+
+#. Node: node17 / Point Hotspot: Point03 / Title
+#. Node: node116 / Point Hotspot: Point03 / Title
+#. Node: node140 / Point Hotspot: Point01 / Title
+#. Node: node141 / Point Hotspot: Point02 / Title
+#. Node: node142 / Point Hotspot: Point01 / Title
+#. Node: node142 / Point Hotspot: Point02 / Title
+#. Node: node143 / Point Hotspot: Point01 / Title
+#. Node: node143 / Point Hotspot: Point02 / Title
+#. Node: node153 / Point Hotspot: Point01 / Title
+#. Node: node153 / Point Hotspot: Point02 / Title
+#. Node: node156 / Point Hotspot: Point01 / Title
+#. Node: node158 / Point Hotspot: Point02 / Title
+#. Node: node161 / Point Hotspot: Point05 / Title
+msgid "Area Penginapan"
+msgstr ""
+
+#. Node: node18 / Point Hotspot: Point03 / Title
+msgid "Keluar Area Parkir"
+msgstr ""
+
+#. Node: node23 / Point Hotspot: Point04 / Title
+#. Node: node33 / Point Hotspot: Point02 / Title
+#. Node: node34 / Point Hotspot: Point02 / Title
+#. Node: node38 / Point Hotspot: Point02 / Title
+#. Node: node39 / Point Hotspot: Point02 / Title
+#. Node: node55 / Point Hotspot: Point02 / Title
+#. Node: node56 / Point Hotspot: Point02 / Title
+#. Node: node56 / Point Hotspot: Point03 / Title
+#. Node: node57 / Point Hotspot: Point01 / Title
+#. Node: node57 / Point Hotspot: Point02 / Title
+#. Node: node65 / Point Hotspot: Point02 / Title
+#. Node: node159 / Point Hotspot: Point04 / Title
+msgid "Area Permukiman"
+msgstr ""
+
+#. Node: node27 / Point Hotspot: Point03 / Title
+#. Node: node108 / Point Hotspot: Point02 / Title
+#. Node: node109 / Point Hotspot: Point01 / Title
+#. Node: node109 / Point Hotspot: Point02 / Title
+#. Node: node110 / Point Hotspot: Point01 / Title
+#. Node: node110 / Point Hotspot: Point02 / Title
+#. Node: node111 / Point Hotspot: Point01 / Title
+#. Node: node128 / Point Hotspot: Point01 / Title
+#. Node: node129 / Point Hotspot: Point01 / Title
+#. Node: node129 / Point Hotspot: Point02 / Title
+#. Node: node130 / Point Hotspot: Point01 / Title
+#. Node: node130 / Point Hotspot: Point02 / Title
+msgid "Jalan Penghubung"
+msgstr ""
+
+#. Node: node30 / Point Hotspot: Point03 / Title
+#. Node: node55 / Point Hotspot: Point04 / Title
+msgid "Kain Endek"
+msgstr ""
+
+#. Node: node30 / Point Hotspot: Point05 / Title
+#. Node: node48 / Point Hotspot: Point04 / Title
+msgid "Udeng"
+msgstr ""
+
+#. Node: node30 / Point Hotspot: Point06 / Title
+#. Node: node31 / Point Hotspot: Point03 / Title
+msgid "Baju Daster"
+msgstr ""
+
+#. Node: node31 / Point Hotspot: Point04 / Title
+msgid "Baju Adat"
+msgstr ""
+
+#. Node: node32 / Point Hotspot: Point03 / Title
+#. Node: node33 / Point Hotspot: Point03 / Title
+#. Node: node53 / Point Hotspot: Point03 / Title
+msgid "Lonceng Angin Bambu"
+msgstr ""
+
+#. Node: node40 / User Data Date && Time
+#. Node: node41 / User Data Date && Time
+#. Node: node42 / User Data Date && Time
+#. Node: node43 / User Data Date && Time
+#. Node: node44 / User Data Date && Time
+#. Node: node45 / User Data Date && Time
+#. Node: node46 / User Data Date && Time
+#. Node: node47 / User Data Date && Time
+#. Node: node48 / User Data Date && Time
+#. Node: node49 / User Data Date && Time
+#. Node: node50 / User Data Date && Time
+#. Node: node51 / User Data Date && Time
+#. Node: node52 / User Data Date && Time
+#. Node: node53 / User Data Date && Time
+#. Node: node54 / User Data Date && Time
+#. Node: node55 / User Data Date && Time
+#. Node: node56 / User Data Date && Time
+#. Node: node57 / User Data Date && Time
+#. Node: node58 / User Data Date && Time
+#. Node: node59 / User Data Date && Time
+#. Node: node60 / User Data Date && Time
+#. Node: node61 / User Data Date && Time
+#. Node: node62 / User Data Date && Time
+#. Node: node63 / User Data Date && Time
+#. Node: node64 / User Data Date && Time
+#. Node: node65 / User Data Date && Time
+#. Node: node66 / User Data Date && Time
+#. Node: node67 / User Data Date && Time
+#. Node: node68 / User Data Date && Time
+#. Node: node69 / User Data Date && Time
+msgid "3/21/2025 10:28 AM"
+msgstr ""
+
+#. Node: node44 / Point Hotspot: Point03 / Title
+#. Node: node141 / Point Hotspot: Point03 / Title
+#. Node: node143 / Point Hotspot: Point03 / Title
+msgid "Penginapan"
+msgstr ""
+
+#. Node: node47 / Point Hotspot: Point03 / Title
+#. Node: node144 / Point Hotspot: Point01 / Title
+#. Node: node145 / Point Hotspot: Point02 / Title
+#. Node: node161 / Point Hotspot: Point07 / Title
+msgid "Gazebo"
+msgstr ""
+
+#. Node: node49 / User Data Custom Node ID
+msgid "umkkm"
+msgstr ""
+
+#. Node: node49 / Point Hotspot: Point03 / Title
+msgid "Tas Karya Tangan"
+msgstr ""
+
+#. Node: node50 / Point Hotspot: Point03 / Title
+#. Node: node57 / Point Hotspot: Point03 / Title
+#. Node: node64 / Point Hotspot: Point03 / Title
+msgid "Rumah"
+msgstr ""
+
+#. Node: node53 / Point Hotspot: Point04 / Title
+#. Node: node55 / Point Hotspot: Point03 / Title
+#. Node: node62 / Point Hotspot: Point05 / Title
+msgid "Kain Poleng"
+msgstr ""
+
+#. Node: node53 / Point Hotspot: Point05 / Title
+msgid "Tas Rotan"
+msgstr ""
+
+#. Node: node54 / User Data Custom Node ID
+msgid "umkm"
+msgstr ""
+
+#. Node: node54 / Point Hotspot: Point03 / Title
+msgid "Udeng / Ikat Kepala"
+msgstr ""
+
+#. Node: node54 / Point Hotspot: Point04 / Title
+msgid "Topi Caping"
+msgstr ""
+
+#. Node: node60 / Point Hotspot: Point01 / Title
+#. Node: node112 / Point Hotspot: Point02 / Title
+#. Node: node124 / Point Hotspot: Point02 / Title
+#. Node: node161 / Point Hotspot: Point06 / Title
+#. Node: node161 / Point Hotspot: Point08 / Title
+msgid "Pura"
+msgstr ""
+
+#. Node: node62 / Point Hotspot: Point04 / Title
+msgid "Kerincingan Kayu"
+msgstr ""
+
+#. Node: node62 / Point Hotspot: Point08 / Title
+msgid "Rindik"
+msgstr ""
+
+#. Node: node66 / Point Hotspot: Point02 / Title
+msgid "Sarung Pantai"
+msgstr ""
+
+#. Node: node66 / Point Hotspot: Point03 / Title
+msgid "Kain Songket"
+msgstr ""
+
+#. Node: node68 / Point Hotspot: Point02 / Title
+#. Node: node80 / Point Hotspot: Point01 / Title
+#. Node: node80 / Point Hotspot: Point02 / Title
+#. Node: node81 / Point Hotspot: Point01 / Title
+#. Node: node81 / Point Hotspot: Point02 / Title
+#. Node: node82 / Point Hotspot: Point01 / Title
+#. Node: node83 / Point Hotspot: Point02 / Title
+#. Node: node84 / Point Hotspot: Point02 / Title
+#. Node: node85 / Point Hotspot: Point02 / Title
+#. Node: node86 / Point Hotspot: Point02 / Title
+#. Node: node87 / Point Hotspot: Point02 / Title
+#. Node: node88 / Point Hotspot: Point02 / Title
+msgid "Kafe Kebun"
+msgstr ""
+
+#. Node: node68 / Point Hotspot: Point03 / Title
+#. Node: node76 / Point Hotspot: Point02 / Title
+#. Node: node89 / Point Hotspot: Point02 / Title
+msgid "Tugu"
+msgstr ""
+
+#. Node: node69 / Point Hotspot: Point02 / Title
+#. Node: node70 / Point Hotspot: Point03 / Title
+#. Node: node71 / Point Hotspot: Point02 / Title
+#. Node: node71 / Point Hotspot: Point03 / Title
+#. Node: node72 / Point Hotspot: Point02 / Title
+#. Node: node73 / Point Hotspot: Point02 / Title
+#. Node: node74 / Point Hotspot: Point02 / Title
+#. Node: node75 / Point Hotspot: Point03 / Title
+#. Node: node88 / Point Hotspot: Point01 / Title
+#. Node: node89 / Point Hotspot: Point01 / Title
+#. Node: node100 / Point Hotspot: Point03 / Title
+#. Node: node111 / Point Hotspot: Point03 / Title
+msgid "Hutan Bambu"
+msgstr ""
+
+#. Node: node70 / Point Hotspot: Point02 / Title
+msgid "Tanaman Hias"
+msgstr ""
+
+#. Node: node72 / User Data Date && Time
+msgid "2024:04:22 11:05:21"
+msgstr ""
+
+#. Node: node75 / Point Hotspot: Point02 / Title
+#. Node: node76 / Point Hotspot: Point01 / Title
+#. Node: node77 / Point Hotspot: Point02 / Title
+#. Node: node78 / Point Hotspot: Point02 / Title
+msgid "Kafe Bambu"
+msgstr ""
+
+#. Node: node89 / User Data Date && Time
+#. Node: node90 / User Data Date && Time
+msgid "3/24/2025 9:52 AM"
+msgstr ""
+
+#. Node: node91 / User Data Date && Time
+msgid "2024:04:22 07:56:49"
+msgstr ""
+
+#. Node: node92 / User Data Date && Time
+msgid "2024:04:22 07:59:04"
+msgstr ""
+
+#. Node: node93 / User Data Date && Time
+msgid "2024:04:22 08:01:11"
+msgstr ""
+
+#. Node: node94 / User Data Date && Time
+msgid "2024:04:22 08:04:11"
+msgstr ""
+
+#. Node: node95 / User Data Date && Time
+msgid "2024:04:22 08:09:07"
+msgstr ""
+
+#. Node: node96 / User Data Date && Time
+msgid "2024:04:22 08:10:40"
+msgstr ""
+
+#. Node: node97 / User Data Date && Time
+msgid "2024:04:22 08:14:24"
+msgstr ""
+
+#. Node: node97 / Point Hotspot: Point04 / Title
+#. Node: node146 / Point Hotspot: Point01 / Title
+#. Node: node147 / Point Hotspot: Point01 / Title
+#. Node: node165 / Point Hotspot: Point04 / Title
+msgid "Karang Memadu"
+msgstr ""
+
+#. Node: node98 / User Data Date && Time
+msgid "2024:04:22 08:32:02"
+msgstr ""
+
+#. Node: node98 / Point Hotspot: Point01 / Title
+#. Node: node102 / Point Hotspot: Point01 / Title
+#. Node: node103 / Point Hotspot: Point01 / Title
+#. Node: node104 / Point Hotspot: Point01 / Title
+#. Node: node105 / Point Hotspot: Point03 / Title
+#. Node: node114 / Point Hotspot: Point02 / Title
+#. Node: node114 / Point Hotspot: Point03 / Title
+#. Node: node116 / Point Hotspot: Point01 / Title
+#. Node: node135 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk"
+msgstr ""
+
+#. Node: node98 / Point Hotspot: Point02 / Title
+#. Node: node100 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk Utama"
+msgstr ""
+
+#. Node: node99 / User Data Date && Time
+msgid "2024:04:22 08:30:28"
+msgstr ""
+
+#. Node: node100 / User Data Date && Time
+msgid "2024:04:22 08:06:54"
+msgstr ""
+
+#. Node: node101 / User Data Date && Time
+msgid "2024:04:22 08:06:18"
+msgstr ""
+
+#. Node: node102 / User Data Date && Time
+msgid "2024:04:22 08:04:28"
+msgstr ""
+
+#. Node: node103 / User Data Date && Time
+msgid "2024:04:22 08:03:28"
+msgstr ""
+
+#. Node: node104 / User Data Date && Time
+msgid "2024:04:22 08:08:06"
+msgstr ""
+
+#. Node: node105 / User Data Date && Time
+msgid "2024:04:22 07:28:53"
+msgstr ""
+
+#. Node: node107 / User Data Date && Time
+msgid "2024:04:23 09:34:57"
+msgstr ""
+
+#. Node: node108 / User Data Date && Time
+msgid "2024:04:23 09:39:13"
+msgstr ""
+
+#. Node: node109 / User Data Date && Time
+msgid "2024:04:23 09:40:26"
+msgstr ""
+
+#. Node: node109 / Point Hotspot: Point03 / Title
+msgid "Sabung Ayam"
+msgstr ""
+
+#. Node: node110 / User Data Date && Time
+msgid "2024:04:23 09:41:21"
+msgstr ""
+
+#. Node: node111 / User Data Date && Time
+msgid "2024:04:23 09:42:31"
+msgstr ""
+
+#. Node: node112 / User Data Date && Time
+msgid "2024:04:23 10:07:18"
+msgstr ""
+
+#. Node: node113 / User Data Date && Time
+msgid "2024:04:23 10:08:59"
+msgstr ""
+
+#. Node: node114 / User Data Date && Time
+msgid "2024:04:22 06:59:28"
+msgstr ""
+
+#. Node: node115 / User Data Date && Time
+msgid "2024:04:22 07:02:48"
+msgstr ""
+
+#. Node: node115 / Point Hotspot: Point03 / Title
+#. Node: node115 / Point Hotspot: Point04 / Title
+#. Node: node117 / Point Hotspot: Point02 / Title
+#. Node: node119 / Point Hotspot: Point01 / Title
+#. Node: node149 / Point Hotspot: Point02 / Title
+#. Node: node150 / Point Hotspot: Point02 / Title
+#. Node: node154 / Point Hotspot: Point02 / Title
+msgid "Toilet"
+msgstr ""
+
+#. Node: node116 / User Data Date && Time
+msgid "2024:04:22 07:06:04"
+msgstr ""
+
+#. Node: node116 / Point Hotspot: Point02 / Title
+#. Node: node133 / Point Hotspot: Point01 / Title
+#. Node: node134 / Point Hotspot: Point01 / Title
+msgid "Area Taman"
+msgstr ""
+
+#. Node: node117 / User Data Date && Time
+msgid "2024:04:22 06:49:41"
+msgstr ""
+
+#. Node: node118 / User Data Date && Time
+msgid "2024:04:22 06:40:12"
+msgstr ""
+
+#. Node: node119 / User Data Date && Time
+msgid "2024:04:22 06:50:14"
+msgstr ""
+
+#. Node: node120 / User Data Date && Time
+msgid "2024:04:22 06:52:33"
+msgstr ""
+
+#. Node: node121 / User Data Date && Time
+msgid "2024:04:23 07:55:06"
+msgstr ""
+
+#. Node: node121 / Point Hotspot: Point02 / Title
+#. Node: node122 / Point Hotspot: Point02 / Title
+#. Node: node124 / Point Hotspot: Point03 / Title
+msgid "Warung Makan"
+msgstr ""
+
+#. Node: node122 / User Data Date && Time
+msgid "2024:04:23 07:53:27"
+msgstr ""
+
+#. Node: node123 / User Data Date && Time
+msgid "2024:04:23 07:49:33"
+msgstr ""
+
+#. Node: node124 / User Data Date && Time
+msgid "2024:04:23 09:11:01"
+msgstr ""
+
+#. Node: node125 / User Data Date && Time
+msgid "2024:04:23 09:00:10"
+msgstr ""
+
+#. Node: node126 / User Data Date && Time
+msgid "2024:04:22 07:49:34"
+msgstr ""
+
+#. Node: node127 / User Data Date && Time
+msgid "2024:04:23 09:38:19"
+msgstr ""
+
+#. Node: node127 / Point Hotspot: Point02 / Title
+msgid "Pintu Masuk Pura"
+msgstr ""
+
+#. Node: node127 / Point Hotspot: Point03 / Title
+msgid "Penghubung Gapura"
+msgstr ""
+
+#. Node: node128 / User Data Date && Time
+msgid "2024:04:22 07:53:26"
+msgstr ""
+
+#. Node: node129 / User Data Date && Time
+msgid "2024:04:22 07:53:01"
+msgstr ""
+
+#. Node: node130 / User Data Date && Time
+msgid "2024:04:22 07:52:13"
+msgstr ""
+
+#. Node: node131 / User Data Date && Time
+msgid "2024:04:22 07:56:36"
+msgstr ""
+
+#. Node: node132 / User Data Date && Time
+msgid "2024:04:22 07:57:49"
+msgstr ""
+
+#. Node: node133 / User Data Date && Time
+msgid "2024:04:22 11:01:04"
+msgstr ""
+
+#. Node: node134 / User Data Date && Time
+msgid "2024:04:22 11:02:32"
+msgstr ""
+
+#. Node: node135 / User Data Date && Time
+msgid "2024:04:22 08:00:39"
+msgstr ""
+
+#. Node: node135 / Point Hotspot: Point01 / Title
+msgid "Parkir"
+msgstr ""
+
+#. Node: node136 / User Data Date && Time
+msgid "2024:04:22 07:59:03"
+msgstr ""
+
+#. Node: node136 / Point Hotspot: Point01 / Title
+#. Node: node137 / Point Hotspot: Point01 / Title
+#. Node: node138 / Point Hotspot: Point01 / Title
+#. Node: node166 / Point Hotspot: Point04 / Title
+#. Node: node169 / Point Hotspot: Point03 / Title
+msgid "Masuk"
+msgstr ""
+
+#. Node: node137 / User Data Date && Time
+msgid "2024:04:22 07:55:45"
+msgstr ""
+
+#. Node: node138 / User Data Date && Time
+msgid "2024:04:22 07:53:54"
+msgstr ""
+
+#. Node: node139 / User Data Date && Time
+msgid "2024:04:23 09:47:15"
+msgstr ""
+
+#. Node: node140 / User Data Date && Time
+msgid "2024:04:22 10:36:11"
+msgstr ""
+
+#. Node: node141 / User Data Date && Time
+msgid "2024:04:22 10:30:09"
+msgstr ""
+
+#. Node: node142 / User Data Date && Time
+msgid "2024:04:22 10:31:38"
+msgstr ""
+
+#. Node: node143 / User Data Date && Time
+msgid "2024:04:22 10:34:21"
+msgstr ""
+
+#. Node: node144 / User Data Date && Time
+msgid "2024:04:22 07:42:15"
+msgstr ""
+
+#. Node: node145 / User Data Date && Time
+msgid "2024:04:22 07:36:16"
+msgstr ""
+
+#. Node: node146 / User Data Date && Time
+msgid "2024:04:22 08:26:17"
+msgstr ""
+
+#. Node: node147 / User Data Date && Time
+msgid "2024:04:22 08:19:57"
+msgstr ""
+
+#. Node: node149 / User Data Date && Time
+msgid "2024:04:22 10:24:49"
+msgstr ""
+
+#. Node: node150 / User Data Date && Time
+msgid "2024:04:22 10:45:01"
+msgstr ""
+
+#. Node: node151 / User Data Date && Time
+msgid "2024:04:22 10:46:40"
+msgstr ""
+
+#. Node: node152 / User Data Date && Time
+msgid "2024:04:22 10:51:52"
+msgstr ""
+
+#. Node: node153 / User Data Date && Time
+#. Node: node156 / User Data Date && Time
+msgid "4/24/2024 11:01 AM"
+msgstr ""
+
+#. Node: node154 / User Data Date && Time
+msgid "4/24/2024 11:02 AM"
+msgstr ""
+
+#. Node: node155 / User Data Date && Time
+msgid "5/2/2024 9:29 AM"
+msgstr ""
+
+#. Node: node157 / User Data Title
+#. Node: node157 / User Data Description
+msgid "Drone Sunrise 2"
+msgstr ""
+
+#. Node: node157 / User Data Date && Time
+msgid "4/22/2024 7:26 AM"
+msgstr ""
+
+#. Node: node157 / Point Hotspot: Point02 / Title
+#. Node: node158 / Point Hotspot: Point01 / Title
+#. Node: node158 / Point Hotspot: Point03 / Title
+#. Node: node159 / Point Hotspot: Point01 / Title
+#. Node: node159 / Point Hotspot: Point02 / Title
+#. Node: node160 / Point Hotspot: Point01 / Title
+#. Node: node160 / Point Hotspot: Point02 / Title
+#. Node: node161 / Point Hotspot: Point01 / Title
+#. Node: node161 / Point Hotspot: Point02 / Title
+#. Node: node161 / Point Hotspot: Point03 / Title
+#. Node: node162 / Point Hotspot: Point01 / Title
+#. Node: node162 / Point Hotspot: Point02 / Title
+#. Node: node163 / Point Hotspot: Point01 / Title
+#. Node: node163 / Point Hotspot: Point02 / Title
+#. Node: node164 / Point Hotspot: Point01 / Title
+#. Node: node164 / Point Hotspot: Point02 / Title
+#. Node: node165 / Point Hotspot: Point01 / Title
+#. Node: node165 / Point Hotspot: Point02 / Title
+#. Node: node166 / Point Hotspot: Point01 / Title
+#. Node: node166 / Point Hotspot: Point02 / Title
+#. Node: node166 / Point Hotspot: Point03 / Title
+#. Node: node167 / Point Hotspot: Point01 / Title
+#. Node: node168 / Point Hotspot: Point01 / Title
+#. Node: node168 / Point Hotspot: Point02 / Title
+#. Node: node169 / Point Hotspot: Point01 / Title
+#. Node: node169 / Point Hotspot: Point02 / Title
+msgid "Area Desa Penglipuran"
+msgstr ""
+
+#. Node: node158 / User Data Title
+#. Node: node158 / User Data Description
+msgid "Drone Sunrise 3"
+msgstr ""
+
+#. Node: node158 / User Data Date && Time
+msgid "4/22/2024 7:28 AM"
+msgstr ""
+
+#. Node: node159 / User Data Title
+#. Node: node159 / User Data Description
+msgid "Drone Sunrise 4"
+msgstr ""
+
+#. Node: node159 / User Data Date && Time
+msgid "4/22/2024 7:46 AM"
+msgstr ""
+
+#. Node: node160 / User Data Title
+#. Node: node160 / User Data Description
+msgid "Drone Sunrise 5"
+msgstr ""
+
+#. Node: node160 / User Data Date && Time
+msgid "4/22/2024 7:50 AM"
+msgstr ""
+
+#. Node: node161 / User Data Title
+#. Node: node161 / User Data Description
+msgid "Drone Sunrise 6"
+msgstr ""
+
+#. Node: node161 / User Data Date && Time
+msgid "4/22/2024 7:52 AM"
+msgstr ""
+
+#. Node: node162 / User Data Title
+#. Node: node162 / User Data Description
+msgid "Drone Sunrise 7"
+msgstr ""
+
+#. Node: node162 / User Data Date && Time
+msgid "4/22/2024 8:00 AM"
+msgstr ""
+
+#. Node: node163 / User Data Title
+#. Node: node163 / User Data Description
+msgid "Drone Sunrise 8"
+msgstr ""
+
+#. Node: node163 / User Data Date && Time
+msgid "4/22/2024 8:01 AM"
+msgstr ""
+
+#. Node: node164 / User Data Title
+#. Node: node164 / User Data Description
+msgid "Drone Sunrise 9"
+msgstr ""
+
+#. Node: node164 / User Data Date && Time
+msgid "4/22/2024 8:03 AM"
+msgstr ""
+
+#. Node: node165 / User Data Title
+#. Node: node165 / User Data Description
+msgid "Drone Sunrise 10"
+msgstr ""
+
+#. Node: node165 / User Data Date && Time
+msgid "4/22/2024 8:05 AM"
+msgstr ""
+
+#. Node: node166 / User Data Title
+#. Node: node166 / User Data Description
+msgid "Drone Sunrise 11"
+msgstr ""
+
+#. Node: node166 / User Data Date && Time
+msgid "4/22/2024 8:06 AM"
+msgstr ""
+
+#. Node: node167 / User Data Title
+#. Node: node167 / User Data Description
+msgid "Drone Sunrise 12"
+msgstr ""
+
+#. Node: node167 / User Data Date && Time
+msgid "4/22/2024 8:08 AM"
+msgstr ""
+
+#. Node: node168 / User Data Title
+#. Node: node168 / User Data Description
+msgid "Drone Sunrise Entrance"
+msgstr ""
+
+#. Node: node168 / User Data Date && Time
+msgid "4/22/2024 7:55 AM"
+msgstr ""
+
+#. Node: node169 / User Data Title
+#. Node: node169 / User Data Description
+msgid "Drone Sunrise Entrance 2"
+msgstr ""
+
+#. Node: node169 / User Data Date && Time
+msgid "4/22/2024 7:53 AM"
+msgstr ""
+
+#. Node: node170 / User Data Date && Time
+msgid "2024:04:23 06:21:56"
+msgstr ""
+
+#. Node: node171 / User Data Date && Time
+msgid "2024:04:23 06:21:06"
+msgstr ""
+
+#. Node: node172 / User Data Date && Time
+msgid "2024:04:23 06:20:26"
+msgstr ""
+
+#. Node: node173 / User Data Date && Time
+msgid "2024:04:23 06:19:26"
+msgstr ""
+
+#. Node: node174 / User Data Date && Time
+msgid "2024:04:23 06:18:30"
+msgstr ""
+
+#. Node: node175 / User Data Date && Time
+msgid "2024:04:23 06:17:00"
+msgstr ""
+
+#. Node: node176 / User Data Date && Time
+msgid "2024:04:23 06:15:42"
+msgstr ""
+
+#. Node: node177 / User Data Date && Time
+msgid "2024:04:23 06:14:27"
+msgstr ""
+
+#. Node: node178 / User Data Date && Time
+msgid "2024:04:23 06:12:06"
+msgstr ""
+
+#. Node: node179 / User Data Date && Time
+msgid "2024:04:23 06:10:12"
+msgstr ""
+
+#. Node: node180 / User Data Date && Time
+msgid "2024:04:23 06:07:33"
+msgstr ""
+
+#. Node: node181 / User Data Date && Time
+msgid "2024:04:23 06:05:56"
+msgstr ""
+
+#. Node: node182 / User Data Date && Time
+msgid "2024:04:23 06:05:05"
+msgstr ""
+
+#. Node: node183 / User Data Date && Time
+msgid "2024:04:23 06:03:49"
+msgstr ""
+
+#. Node: node184 / User Data Date && Time
+msgid "2024:04:23 06:02:43"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+

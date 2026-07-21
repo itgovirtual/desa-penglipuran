@@ -13,13 +13,17 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: link / Initial Value
+msgid "desa-penglipuran"
+msgstr ""
+
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
 msgstr ""
 
 #. Skin Element Text: Muncul / Text
 msgid "Tampilkan Menu"
-msgstr ""
+msgstr "メニューを表示"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
@@ -27,12 +31,12 @@ msgstr ""
 
 #. Skin Element Text: Sembunyi / Text
 msgid "Sembunyikan Menu"
-msgstr ""
+msgstr "メニューを非表示にする"
 
 #. Skin Element Text: Text 1 / Text
 #. Skin Element Text: Text 1_mobile / Text
 msgid "Desa Pariwisata Penglipuran"
-msgstr ""
+msgstr "ペンリプラン観光村"
 
 #. Skin Element Text: Text 1222 / Text
 msgid "UBAH LOKASI"
@@ -45,17 +49,20 @@ msgstr ""
 #. Skin Element Text: Text 1_1 / Text
 #. Skin Element Text: Text 1_122 / Text
 msgid "Drone"
-msgstr ""
+msgstr "ドローン"
 
 #. Skin Element Text: Text 1_1_1s2a / Text
+msgid "Lokasi"
+msgstr "位置"
+
 #. Skin Element Text: Text 1_1_1sa / Text
 msgid "Malam"
-msgstr ""
+msgstr "夕方"
 
 #. Skin Element Text: Text 1_1_1sss / Text
 #. Skin Element Text: Text 1_1_1sss2 / Text
 msgid "Siang"
-msgstr ""
+msgstr "午後"
 
 #. Skin Element Text: Text 23222 / Text
 msgid "Jalan Utama"
@@ -69,10 +76,46 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
+#. Skin Element Text: akomodasi / Text
+msgid "Akomodasi"
+msgstr "宿泊施設"
+
+#. Skin Element Text: award-text / Text
+msgid "Penghargaan"
+msgstr "賞"
+
+#. Skin Element Text: award-text_1 / Text
+msgid "Chatbot"
+msgstr "チャット"
+
 #. Skin Element External: ht_node_custom_image / URL
 #. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
 msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid ""
+"<iframe src=\"https://webview-govirtual.id/chatbot-comingsoon/\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; \"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: informasi / Text
+msgid "Informasi"
+msgstr "情報"
+
+#. Skin Element Text: ministry / Text
+msgid "© Ministry of Tourism & Creative Economy"
+msgstr "© 観光・創造経済省"
+
+#. Skin Element Text: shop / Text
+msgid "UMKM"
+msgstr "中小零細企業"
+
+#. Skin Element Text: spot  / Text
+msgid "Spot Wisata"
+msgstr "観光スポット"
 
 #. Skin Element Text: text welcome / Text
 #. Skin Element Text: text welcome_mobile / Text
@@ -83,3 +126,7 @@ msgid ""
 "ini telah memperoleh berbagai penghargaan sebagai desa terbersih di "
 "Indonesia dan sebagai pelopor dalam menjaga kelestarian alamnya."
 msgstr ""
+"ペンリプラン村へようこそ。バリ島の隠れた宝石であり、文化の美しさと地元の知恵"
+"を放っています。バトゥール山の麓に位置し、ウブドからペンリプラン村までの所要"
+"時間は約1時間です。この村は、インドネシアで最も清潔な村として、また自然保護の"
+"先駆者として数々の賞を受賞しています。"

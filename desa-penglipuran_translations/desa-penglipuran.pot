@@ -3,6 +3,10 @@ msgid ""
 msgstr ""
 "X-Source-Language: id-ID"
 
+#. Skin Variable: link / Initial Value
+msgid "desa-penglipuran"
+msgstr ""
+
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
 msgstr ""
@@ -38,6 +42,9 @@ msgid "Drone"
 msgstr ""
 
 #. Skin Element Text: Text 1_1_1s2a / Text
+msgid "Lokasi"
+msgstr ""
+
 #. Skin Element Text: Text 1_1_1sa / Text
 msgid "Malam"
 msgstr ""
@@ -59,9 +66,41 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
+#. Skin Element Text: akomodasi / Text
+msgid "Akomodasi"
+msgstr ""
+
+#. Skin Element Text: award-text / Text
+msgid "Penghargaan"
+msgstr ""
+
+#. Skin Element Text: award-text_1 / Text
+msgid "Chatbot"
+msgstr ""
+
 #. Skin Element External: ht_node_custom_image / URL
 #. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid "<iframe src=\"https://webview-govirtual.id/chatbot-comingsoon/\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; \"\nframeborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: informasi / Text
+msgid "Informasi"
+msgstr ""
+
+#. Skin Element Text: ministry / Text
+msgid "© Ministry of Tourism & Creative Economy"
+msgstr ""
+
+#. Skin Element Text: shop / Text
+msgid "UMKM"
+msgstr ""
+
+#. Skin Element Text: spot  / Text
+msgid "Spot Wisata"
 msgstr ""
 
 #. Skin Element Text: text welcome / Text

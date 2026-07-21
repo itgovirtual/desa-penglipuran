@@ -13,13 +13,17 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: link / Initial Value
+msgid "desa-penglipuran"
+msgstr ""
+
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
 msgstr ""
 
 #. Skin Element Text: Muncul / Text
 msgid "Tampilkan Menu"
-msgstr ""
+msgstr "Show Menu"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
@@ -27,12 +31,12 @@ msgstr ""
 
 #. Skin Element Text: Sembunyi / Text
 msgid "Sembunyikan Menu"
-msgstr ""
+msgstr "Hide Menu"
 
 #. Skin Element Text: Text 1 / Text
 #. Skin Element Text: Text 1_mobile / Text
 msgid "Desa Pariwisata Penglipuran"
-msgstr ""
+msgstr "Penglipuran Tourism Village"
 
 #. Skin Element Text: Text 1222 / Text
 msgid "UBAH LOKASI"
@@ -48,14 +52,17 @@ msgid "Drone"
 msgstr ""
 
 #. Skin Element Text: Text 1_1_1s2a / Text
+msgid "Lokasi"
+msgstr "Location"
+
 #. Skin Element Text: Text 1_1_1sa / Text
 msgid "Malam"
-msgstr ""
+msgstr "Night"
 
 #. Skin Element Text: Text 1_1_1sss / Text
 #. Skin Element Text: Text 1_1_1sss2 / Text
 msgid "Siang"
-msgstr ""
+msgstr "Day"
 
 #. Skin Element Text: Text 23222 / Text
 msgid "Jalan Utama"
@@ -69,10 +76,46 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
+#. Skin Element Text: akomodasi / Text
+msgid "Akomodasi"
+msgstr "Accommodation"
+
+#. Skin Element Text: award-text / Text
+msgid "Penghargaan"
+msgstr "Award"
+
+#. Skin Element Text: award-text_1 / Text
+msgid "Chatbot"
+msgstr ""
+
 #. Skin Element External: ht_node_custom_image / URL
 #. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
 msgstr ""
+
+#. Skin Element Text: iframe chatbot / Text
+msgid ""
+"<iframe src=\"https://webview-govirtual.id/chatbot-comingsoon/\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; \"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: informasi / Text
+msgid "Informasi"
+msgstr "Information"
+
+#. Skin Element Text: ministry / Text
+msgid "© Ministry of Tourism & Creative Economy"
+msgstr ""
+
+#. Skin Element Text: shop / Text
+msgid "UMKM"
+msgstr ""
+
+#. Skin Element Text: spot  / Text
+msgid "Spot Wisata"
+msgstr "Tourist Spots"
 
 #. Skin Element Text: text welcome / Text
 #. Skin Element Text: text welcome_mobile / Text
@@ -83,3 +126,8 @@ msgid ""
 "ini telah memperoleh berbagai penghargaan sebagai desa terbersih di "
 "Indonesia dan sebagai pelopor dalam menjaga kelestarian alamnya."
 msgstr ""
+"Welcome to Penglipuran Village, a hidden gem on the island of Bali that "
+"exudes the beauty of culture and local wisdom. Located at the foot of Mount "
+"Batur, the travel time from Ubud to Penglipuran Village is about 1 hour. "
+"This village has received various awards as the cleanest village in "
+"Indonesia and as a pioneer in preserving its natural environment."

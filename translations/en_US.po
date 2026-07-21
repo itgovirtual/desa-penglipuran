@@ -61,7 +61,7 @@ msgstr ""
 #. Node: node87 / User Data Date && Time
 #. Node: node88 / User Data Date && Time
 msgid "3/21/2025 10:29 AM"
-msgstr ""
+msgstr "3/21/2025 10:29 AM"
 
 #. Node: node11 / Point Hotspot: Point01 / Title
 #. Node: node12 / Point Hotspot: Point01 / Title
@@ -84,7 +84,7 @@ msgstr ""
 #. Node: node127 / Point Hotspot: Point01 / Title
 #. Node: node157 / Point Hotspot: Point03 / Title
 msgid "Gapura"
-msgstr ""
+msgstr "Gate"
 
 #. Node: node11 / Point Hotspot: Point02 / Title
 #. Node: node13 / Point Hotspot: Point02 / Title
@@ -96,7 +96,7 @@ msgstr ""
 #. Node: node103 / Point Hotspot: Point03 / Title
 #. Node: node104 / Point Hotspot: Point02 / Title
 msgid "Tempat Ibadah"
-msgstr ""
+msgstr "Place of Worship"
 
 #. Node: node11 / Point Hotspot: Point03 / Title
 #. Node: node98 / Point Hotspot: Point03 / Title
@@ -111,7 +111,7 @@ msgstr ""
 #. Node: node132 / Point Hotspot: Point01 / Title
 #. Node: node137 / Point Hotspot: Point03 / Title
 msgid "Area Parkir"
-msgstr ""
+msgstr "Parking Area"
 
 #. Node: node12 / Point Hotspot: Point02 / Title
 #. Node: node17 / Point Hotspot: Point01 / Title
@@ -192,7 +192,7 @@ msgstr ""
 #. Node: node183 / Point Hotspot: Point02 / Title
 #. Node: node184 / Point Hotspot: Point01 / Title
 msgid "Desa Penglipuran"
-msgstr ""
+msgstr "Penglipuran Village"
 
 #. Node: node13 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point01 / Title
@@ -269,7 +269,7 @@ msgstr ""
 #. Node: node155 / Point Hotspot: Point01 / Title
 #. Node: node156 / Point Hotspot: Point02 / Title
 msgid "Keluar"
-msgstr ""
+msgstr "Exit"
 
 #. Node: node14 / Point Hotspot: Point02 / Title
 #. Node: node15 / Point Hotspot: Point01 / Title
@@ -306,12 +306,12 @@ msgstr ""
 #. Node: node164 / Point Hotspot: Point03 / Title
 #. Node: node165 / Point Hotspot: Point03 / Title
 msgid "Area UMKM"
-msgstr ""
+msgstr "MSME Area"
 
 #. Node: node14 / Point Hotspot: Point03 / Title
 #. Node: node64 / Point Hotspot: Point04 / Title
 msgid "Topi Rajut"
-msgstr ""
+msgstr "Knitted Hat"
 
 #. Node: node14 / Point Hotspot: Point04 / Title
 #. Node: node14 / Point Hotspot: Point07 / Title
@@ -325,29 +325,29 @@ msgstr ""
 #. Node: node64 / Point Hotspot: Point05 / Title
 #. Node: node65 / Point Hotspot: Point04 / Title
 msgid "Tas Rajut"
-msgstr ""
+msgstr "Knitted Bag"
 
 #. Node: node14 / Point Hotspot: Point05 / Title
 #. Node: node48 / Point Hotspot: Point03 / Title
 msgid "Topeng Leak"
-msgstr ""
+msgstr "Leak Mask"
 
 #. Node: node14 / Point Hotspot: Point06 / Title
 #. Node: node54 / Point Hotspot: Point02 / Title
 #. Node: node62 / Point Hotspot: Point09 / Title
 #. Node: node63 / Point Hotspot: Point04 / Title
 msgid "Dream Catcher"
-msgstr ""
+msgstr "Dream Catcher"
 
 #. Node: node15 / Point Hotspot: Point02 / Title
 #. Node: node49 / Point Hotspot: Point05 / Title
 #. Node: node65 / Point Hotspot: Point03 / Title
 msgid "Baju Pantai"
-msgstr ""
+msgstr "Beachwear"
 
 #. Node: node15 / Point Hotspot: Point03 / Title
 msgid "Lonceng Bambu Angin"
-msgstr ""
+msgstr "Bamboo Wind Chime"
 
 #. Node: node17 / Point Hotspot: Point03 / Title
 #. Node: node116 / Point Hotspot: Point03 / Title
@@ -363,11 +363,11 @@ msgstr ""
 #. Node: node158 / Point Hotspot: Point02 / Title
 #. Node: node161 / Point Hotspot: Point05 / Title
 msgid "Area Penginapan"
-msgstr ""
+msgstr "Accommodation Area"
 
 #. Node: node18 / Point Hotspot: Point03 / Title
 msgid "Keluar Area Parkir"
-msgstr ""
+msgstr "Exit Parking Area"
 
 #. Node: node23 / Point Hotspot: Point04 / Title
 #. Node: node33 / Point Hotspot: Point02 / Title
@@ -382,7 +382,7 @@ msgstr ""
 #. Node: node65 / Point Hotspot: Point02 / Title
 #. Node: node159 / Point Hotspot: Point04 / Title
 msgid "Area Permukiman"
-msgstr ""
+msgstr "Settlement Area"
 
 #. Node: node27 / Point Hotspot: Point03 / Title
 #. Node: node108 / Point Hotspot: Point02 / Title
@@ -397,32 +397,32 @@ msgstr ""
 #. Node: node130 / Point Hotspot: Point01 / Title
 #. Node: node130 / Point Hotspot: Point02 / Title
 msgid "Jalan Penghubung"
-msgstr ""
+msgstr "Connecting Path"
 
 #. Node: node30 / Point Hotspot: Point03 / Title
 #. Node: node55 / Point Hotspot: Point04 / Title
 msgid "Kain Endek"
-msgstr ""
+msgstr "Endek Fabric"
 
 #. Node: node30 / Point Hotspot: Point05 / Title
 #. Node: node48 / Point Hotspot: Point04 / Title
 msgid "Udeng"
-msgstr ""
+msgstr "Udeng"
 
 #. Node: node30 / Point Hotspot: Point06 / Title
 #. Node: node31 / Point Hotspot: Point03 / Title
 msgid "Baju Daster"
-msgstr ""
+msgstr "Daster Dress"
 
 #. Node: node31 / Point Hotspot: Point04 / Title
 msgid "Baju Adat"
-msgstr ""
+msgstr "Traditional Clothing"
 
 #. Node: node32 / Point Hotspot: Point03 / Title
 #. Node: node33 / Point Hotspot: Point03 / Title
 #. Node: node53 / Point Hotspot: Point03 / Title
 msgid "Lonceng Angin Bambu"
-msgstr ""
+msgstr "Bamboo Wind Chime"
 
 #. Node: node40 / User Data Date && Time
 #. Node: node41 / User Data Date && Time
@@ -455,56 +455,56 @@ msgstr ""
 #. Node: node68 / User Data Date && Time
 #. Node: node69 / User Data Date && Time
 msgid "3/21/2025 10:28 AM"
-msgstr ""
+msgstr "3/21/2025 10:28 AM"
 
 #. Node: node44 / Point Hotspot: Point03 / Title
 #. Node: node141 / Point Hotspot: Point03 / Title
 #. Node: node143 / Point Hotspot: Point03 / Title
 msgid "Penginapan"
-msgstr ""
+msgstr "Accommodation"
 
 #. Node: node47 / Point Hotspot: Point03 / Title
 #. Node: node144 / Point Hotspot: Point01 / Title
 #. Node: node145 / Point Hotspot: Point02 / Title
 #. Node: node161 / Point Hotspot: Point07 / Title
 msgid "Gazebo"
-msgstr ""
+msgstr "Gazebo"
 
 #. Node: node49 / User Data Custom Node ID
 msgid "umkkm"
-msgstr ""
+msgstr "umkkm"
 
 #. Node: node49 / Point Hotspot: Point03 / Title
 msgid "Tas Karya Tangan"
-msgstr ""
+msgstr "Handmade Bag"
 
 #. Node: node50 / Point Hotspot: Point03 / Title
 #. Node: node57 / Point Hotspot: Point03 / Title
 #. Node: node64 / Point Hotspot: Point03 / Title
 msgid "Rumah"
-msgstr ""
+msgstr "House"
 
 #. Node: node53 / Point Hotspot: Point04 / Title
 #. Node: node55 / Point Hotspot: Point03 / Title
 #. Node: node62 / Point Hotspot: Point05 / Title
 msgid "Kain Poleng"
-msgstr ""
+msgstr "Poleng Fabric"
 
 #. Node: node53 / Point Hotspot: Point05 / Title
 msgid "Tas Rotan"
-msgstr ""
+msgstr "Rattan Bag"
 
 #. Node: node54 / User Data Custom Node ID
 msgid "umkm"
-msgstr ""
+msgstr "umkm"
 
 #. Node: node54 / Point Hotspot: Point03 / Title
 msgid "Udeng / Ikat Kepala"
-msgstr ""
+msgstr "Udeng / Headband"
 
 #. Node: node54 / Point Hotspot: Point04 / Title
 msgid "Topi Caping"
-msgstr ""
+msgstr "Caping Hat"
 
 #. Node: node60 / Point Hotspot: Point01 / Title
 #. Node: node112 / Point Hotspot: Point02 / Title
@@ -512,23 +512,23 @@ msgstr ""
 #. Node: node161 / Point Hotspot: Point06 / Title
 #. Node: node161 / Point Hotspot: Point08 / Title
 msgid "Pura"
-msgstr ""
+msgstr "Temple"
 
 #. Node: node62 / Point Hotspot: Point04 / Title
 msgid "Kerincingan Kayu"
-msgstr ""
+msgstr "Wooden Rattle"
 
 #. Node: node62 / Point Hotspot: Point08 / Title
 msgid "Rindik"
-msgstr ""
+msgstr "Rindik"
 
 #. Node: node66 / Point Hotspot: Point02 / Title
 msgid "Sarung Pantai"
-msgstr ""
+msgstr "Sarong"
 
 #. Node: node66 / Point Hotspot: Point03 / Title
 msgid "Kain Songket"
-msgstr ""
+msgstr "Songket Fabric"
 
 #. Node: node68 / Point Hotspot: Point02 / Title
 #. Node: node80 / Point Hotspot: Point01 / Title
@@ -543,13 +543,13 @@ msgstr ""
 #. Node: node87 / Point Hotspot: Point02 / Title
 #. Node: node88 / Point Hotspot: Point02 / Title
 msgid "Kafe Kebun"
-msgstr ""
+msgstr "Garden Cafe"
 
 #. Node: node68 / Point Hotspot: Point03 / Title
 #. Node: node76 / Point Hotspot: Point02 / Title
 #. Node: node89 / Point Hotspot: Point02 / Title
 msgid "Tugu"
-msgstr ""
+msgstr "Monument"
 
 #. Node: node69 / Point Hotspot: Point02 / Title
 #. Node: node70 / Point Hotspot: Point03 / Title
@@ -564,66 +564,66 @@ msgstr ""
 #. Node: node100 / Point Hotspot: Point03 / Title
 #. Node: node111 / Point Hotspot: Point03 / Title
 msgid "Hutan Bambu"
-msgstr ""
+msgstr "Bamboo Forest"
 
 #. Node: node70 / Point Hotspot: Point02 / Title
 msgid "Tanaman Hias"
-msgstr ""
+msgstr "Ornamental Plants"
 
 #. Node: node72 / User Data Date && Time
 msgid "2024:04:22 11:05:21"
-msgstr ""
+msgstr "2024:04:22 11:05:21"
 
 #. Node: node75 / Point Hotspot: Point02 / Title
 #. Node: node76 / Point Hotspot: Point01 / Title
 #. Node: node77 / Point Hotspot: Point02 / Title
 #. Node: node78 / Point Hotspot: Point02 / Title
 msgid "Kafe Bambu"
-msgstr ""
+msgstr "Bamboo Cafe"
 
 #. Node: node89 / User Data Date && Time
 #. Node: node90 / User Data Date && Time
 msgid "3/24/2025 9:52 AM"
-msgstr ""
+msgstr "3/24/2025 9:52 AM"
 
 #. Node: node91 / User Data Date && Time
 msgid "2024:04:22 07:56:49"
-msgstr ""
+msgstr "2024:04:22 07:56:49"
 
 #. Node: node92 / User Data Date && Time
 msgid "2024:04:22 07:59:04"
-msgstr ""
+msgstr "2024:04:22 07:59:04"
 
 #. Node: node93 / User Data Date && Time
 msgid "2024:04:22 08:01:11"
-msgstr ""
+msgstr "2024:04:22 08:01:11"
 
 #. Node: node94 / User Data Date && Time
 msgid "2024:04:22 08:04:11"
-msgstr ""
+msgstr "2024:04:22 08:04:11"
 
 #. Node: node95 / User Data Date && Time
 msgid "2024:04:22 08:09:07"
-msgstr ""
+msgstr "2024:04:22 08:09:07"
 
 #. Node: node96 / User Data Date && Time
 msgid "2024:04:22 08:10:40"
-msgstr ""
+msgstr "2024:04:22 08:10:40"
 
 #. Node: node97 / User Data Date && Time
 msgid "2024:04:22 08:14:24"
-msgstr ""
+msgstr "2024:04:22 08:14:24"
 
 #. Node: node97 / Point Hotspot: Point04 / Title
 #. Node: node146 / Point Hotspot: Point01 / Title
 #. Node: node147 / Point Hotspot: Point01 / Title
 #. Node: node165 / Point Hotspot: Point04 / Title
 msgid "Karang Memadu"
-msgstr ""
+msgstr "Karang Memadu"
 
 #. Node: node98 / User Data Date && Time
 msgid "2024:04:22 08:32:02"
-msgstr ""
+msgstr "2024:04:22 08:32:02"
 
 #. Node: node98 / Point Hotspot: Point01 / Title
 #. Node: node102 / Point Hotspot: Point01 / Title
@@ -635,80 +635,80 @@ msgstr ""
 #. Node: node116 / Point Hotspot: Point01 / Title
 #. Node: node135 / Point Hotspot: Point02 / Title
 msgid "Pintu Masuk"
-msgstr ""
+msgstr "Entrance"
 
 #. Node: node98 / Point Hotspot: Point02 / Title
 #. Node: node100 / Point Hotspot: Point02 / Title
 msgid "Pintu Masuk Utama"
-msgstr ""
+msgstr "Main Entrance"
 
 #. Node: node99 / User Data Date && Time
 msgid "2024:04:22 08:30:28"
-msgstr ""
+msgstr "2024:04:22 08:30:28"
 
 #. Node: node100 / User Data Date && Time
 msgid "2024:04:22 08:06:54"
-msgstr ""
+msgstr "2024:04:22 08:06:54"
 
 #. Node: node101 / User Data Date && Time
 msgid "2024:04:22 08:06:18"
-msgstr ""
+msgstr "2024:04:22 08:06:18"
 
 #. Node: node102 / User Data Date && Time
 msgid "2024:04:22 08:04:28"
-msgstr ""
+msgstr "2024:04:22 08:04:28"
 
 #. Node: node103 / User Data Date && Time
 msgid "2024:04:22 08:03:28"
-msgstr ""
+msgstr "2024:04:22 08:03:28"
 
 #. Node: node104 / User Data Date && Time
 msgid "2024:04:22 08:08:06"
-msgstr ""
+msgstr "2024:04:22 08:08:06"
 
 #. Node: node105 / User Data Date && Time
 msgid "2024:04:22 07:28:53"
-msgstr ""
+msgstr "2024:04:22 07:28:53"
 
 #. Node: node107 / User Data Date && Time
 msgid "2024:04:23 09:34:57"
-msgstr ""
+msgstr "2024:04:23 09:34:57"
 
 #. Node: node108 / User Data Date && Time
 msgid "2024:04:23 09:39:13"
-msgstr ""
+msgstr "2024:04:23 09:39:13"
 
 #. Node: node109 / User Data Date && Time
 msgid "2024:04:23 09:40:26"
-msgstr ""
+msgstr "2024:04:23 09:40:26"
 
 #. Node: node109 / Point Hotspot: Point03 / Title
 msgid "Sabung Ayam"
-msgstr ""
+msgstr "Cockfighting"
 
 #. Node: node110 / User Data Date && Time
 msgid "2024:04:23 09:41:21"
-msgstr ""
+msgstr "2024:04:23 09:41:21"
 
 #. Node: node111 / User Data Date && Time
 msgid "2024:04:23 09:42:31"
-msgstr ""
+msgstr "2024:04:23 09:42:31"
 
 #. Node: node112 / User Data Date && Time
 msgid "2024:04:23 10:07:18"
-msgstr ""
+msgstr "2024:04:23 10:07:18"
 
 #. Node: node113 / User Data Date && Time
 msgid "2024:04:23 10:08:59"
-msgstr ""
+msgstr "2024:04:23 10:08:59"
 
 #. Node: node114 / User Data Date && Time
 msgid "2024:04:22 06:59:28"
-msgstr ""
+msgstr "2024:04:22 06:59:28"
 
 #. Node: node115 / User Data Date && Time
 msgid "2024:04:22 07:02:48"
-msgstr ""
+msgstr "2024:04:22 07:02:48"
 
 #. Node: node115 / Point Hotspot: Point03 / Title
 #. Node: node115 / Point Hotspot: Point04 / Title
@@ -718,115 +718,115 @@ msgstr ""
 #. Node: node150 / Point Hotspot: Point02 / Title
 #. Node: node154 / Point Hotspot: Point02 / Title
 msgid "Toilet"
-msgstr ""
+msgstr "Restroom"
 
 #. Node: node116 / User Data Date && Time
 msgid "2024:04:22 07:06:04"
-msgstr ""
+msgstr "2024:04:22 07:06:04"
 
 #. Node: node116 / Point Hotspot: Point02 / Title
 #. Node: node133 / Point Hotspot: Point01 / Title
 #. Node: node134 / Point Hotspot: Point01 / Title
 msgid "Area Taman"
-msgstr ""
+msgstr "Garden Area"
 
 #. Node: node117 / User Data Date && Time
 msgid "2024:04:22 06:49:41"
-msgstr ""
+msgstr "2024:04:22 06:49:41"
 
 #. Node: node118 / User Data Date && Time
 msgid "2024:04:22 06:40:12"
-msgstr ""
+msgstr "2024:04:22 06:40:12"
 
 #. Node: node119 / User Data Date && Time
 msgid "2024:04:22 06:50:14"
-msgstr ""
+msgstr "2024:04:22 06:50:14"
 
 #. Node: node120 / User Data Date && Time
 msgid "2024:04:22 06:52:33"
-msgstr ""
+msgstr "2024:04:22 06:52:33"
 
 #. Node: node121 / User Data Date && Time
 msgid "2024:04:23 07:55:06"
-msgstr ""
+msgstr "2024:04:23 07:55:06"
 
 #. Node: node121 / Point Hotspot: Point02 / Title
 #. Node: node122 / Point Hotspot: Point02 / Title
 #. Node: node124 / Point Hotspot: Point03 / Title
 msgid "Warung Makan"
-msgstr ""
+msgstr "Food Stall"
 
 #. Node: node122 / User Data Date && Time
 msgid "2024:04:23 07:53:27"
-msgstr ""
+msgstr "2024:04:23 07:53:27"
 
 #. Node: node123 / User Data Date && Time
 msgid "2024:04:23 07:49:33"
-msgstr ""
+msgstr "2024:04:23 07:49:33"
 
 #. Node: node124 / User Data Date && Time
 msgid "2024:04:23 09:11:01"
-msgstr ""
+msgstr "2024:04:23 09:11:01"
 
 #. Node: node125 / User Data Date && Time
 msgid "2024:04:23 09:00:10"
-msgstr ""
+msgstr "2024:04:23 09:00:10"
 
 #. Node: node126 / User Data Date && Time
 msgid "2024:04:22 07:49:34"
-msgstr ""
+msgstr "2024:04:22 07:49:34"
 
 #. Node: node127 / User Data Date && Time
 msgid "2024:04:23 09:38:19"
-msgstr ""
+msgstr "2024:04:23 09:38:19"
 
 #. Node: node127 / Point Hotspot: Point02 / Title
 msgid "Pintu Masuk Pura"
-msgstr ""
+msgstr "Temple Entrance"
 
 #. Node: node127 / Point Hotspot: Point03 / Title
 msgid "Penghubung Gapura"
-msgstr ""
+msgstr "Gate Connector"
 
 #. Node: node128 / User Data Date && Time
 msgid "2024:04:22 07:53:26"
-msgstr ""
+msgstr "2024:04:22 07:53:26"
 
 #. Node: node129 / User Data Date && Time
 msgid "2024:04:22 07:53:01"
-msgstr ""
+msgstr "2024:04:22 07:53:01"
 
 #. Node: node130 / User Data Date && Time
 msgid "2024:04:22 07:52:13"
-msgstr ""
+msgstr "2024:04:22 07:52:13"
 
 #. Node: node131 / User Data Date && Time
 msgid "2024:04:22 07:56:36"
-msgstr ""
+msgstr "2024:04:22 07:56:36"
 
 #. Node: node132 / User Data Date && Time
 msgid "2024:04:22 07:57:49"
-msgstr ""
+msgstr "2024:04:22 07:57:49"
 
 #. Node: node133 / User Data Date && Time
 msgid "2024:04:22 11:01:04"
-msgstr ""
+msgstr "2024:04:22 11:01:04"
 
 #. Node: node134 / User Data Date && Time
 msgid "2024:04:22 11:02:32"
-msgstr ""
+msgstr "2024:04:22 11:02:32"
 
 #. Node: node135 / User Data Date && Time
 msgid "2024:04:22 08:00:39"
-msgstr ""
+msgstr "2024:04:22 08:00:39"
 
 #. Node: node135 / Point Hotspot: Point01 / Title
 msgid "Parkir"
-msgstr ""
+msgstr "Parking"
 
 #. Node: node136 / User Data Date && Time
 msgid "2024:04:22 07:59:03"
-msgstr ""
+msgstr "2024:04:22 07:59:03"
 
 #. Node: node136 / Point Hotspot: Point01 / Title
 #. Node: node137 / Point Hotspot: Point01 / Title
@@ -834,89 +834,89 @@ msgstr ""
 #. Node: node166 / Point Hotspot: Point04 / Title
 #. Node: node169 / Point Hotspot: Point03 / Title
 msgid "Masuk"
-msgstr ""
+msgstr "Enter"
 
 #. Node: node137 / User Data Date && Time
 msgid "2024:04:22 07:55:45"
-msgstr ""
+msgstr "2024:04:22 07:55:45"
 
 #. Node: node138 / User Data Date && Time
 msgid "2024:04:22 07:53:54"
-msgstr ""
+msgstr "2024:04:22 07:53:54"
 
 #. Node: node139 / User Data Date && Time
 msgid "2024:04:23 09:47:15"
-msgstr ""
+msgstr "2024:04:23 09:47:15"
 
 #. Node: node140 / User Data Date && Time
 msgid "2024:04:22 10:36:11"
-msgstr ""
+msgstr "2024:04:22 10:36:11"
 
 #. Node: node141 / User Data Date && Time
 msgid "2024:04:22 10:30:09"
-msgstr ""
+msgstr "2024:04:22 10:30:09"
 
 #. Node: node142 / User Data Date && Time
 msgid "2024:04:22 10:31:38"
-msgstr ""
+msgstr "2024:04:22 10:31:38"
 
 #. Node: node143 / User Data Date && Time
 msgid "2024:04:22 10:34:21"
-msgstr ""
+msgstr "2024:04:22 10:34:21"
 
 #. Node: node144 / User Data Date && Time
 msgid "2024:04:22 07:42:15"
-msgstr ""
+msgstr "2024:04:22 07:42:15"
 
 #. Node: node145 / User Data Date && Time
 msgid "2024:04:22 07:36:16"
-msgstr ""
+msgstr "2024:04:22 07:36:16"
 
 #. Node: node146 / User Data Date && Time
 msgid "2024:04:22 08:26:17"
-msgstr ""
+msgstr "2024:04:22 08:26:17"
 
 #. Node: node147 / User Data Date && Time
 msgid "2024:04:22 08:19:57"
-msgstr ""
+msgstr "2024:04:22 08:19:57"
 
 #. Node: node149 / User Data Date && Time
 msgid "2024:04:22 10:24:49"
-msgstr ""
+msgstr "2024:04:22 10:24:49"
 
 #. Node: node150 / User Data Date && Time
 msgid "2024:04:22 10:45:01"
-msgstr ""
+msgstr "2024:04:22 10:45:01"
 
 #. Node: node151 / User Data Date && Time
 msgid "2024:04:22 10:46:40"
-msgstr ""
+msgstr "2024:04:22 10:46:40"
 
 #. Node: node152 / User Data Date && Time
 msgid "2024:04:22 10:51:52"
-msgstr ""
+msgstr "2024:04:22 10:51:52"
 
 #. Node: node153 / User Data Date && Time
 #. Node: node156 / User Data Date && Time
 msgid "4/24/2024 11:01 AM"
-msgstr ""
+msgstr "4/24/2024 11:01 AM"
 
 #. Node: node154 / User Data Date && Time
 msgid "4/24/2024 11:02 AM"
-msgstr ""
+msgstr "4/24/2024 11:02 AM"
 
 #. Node: node155 / User Data Date && Time
 msgid "5/2/2024 9:29 AM"
-msgstr ""
+msgstr "5/2/2024 9:29 AM"
 
 #. Node: node157 / User Data Title
 #. Node: node157 / User Data Description
 msgid "Drone Sunrise 2"
-msgstr ""
+msgstr "Drone Sunrise 2"
 
 #. Node: node157 / User Data Date && Time
 msgid "4/22/2024 7:26 AM"
-msgstr ""
+msgstr "4/22/2024 7:26 AM"
 
 #. Node: node157 / Point Hotspot: Point02 / Title
 #. Node: node158 / Point Hotspot: Point01 / Title
@@ -945,184 +945,184 @@ msgstr ""
 #. Node: node169 / Point Hotspot: Point01 / Title
 #. Node: node169 / Point Hotspot: Point02 / Title
 msgid "Area Desa Penglipuran"
-msgstr ""
+msgstr "Penglipuran Village Area"
 
 #. Node: node158 / User Data Title
 #. Node: node158 / User Data Description
 msgid "Drone Sunrise 3"
-msgstr ""
+msgstr "Drone Sunrise 3"
 
 #. Node: node158 / User Data Date && Time
 msgid "4/22/2024 7:28 AM"
-msgstr ""
+msgstr "4/22/2024 7:28 AM"
 
 #. Node: node159 / User Data Title
 #. Node: node159 / User Data Description
 msgid "Drone Sunrise 4"
-msgstr ""
+msgstr "Drone Sunrise 4"
 
 #. Node: node159 / User Data Date && Time
 msgid "4/22/2024 7:46 AM"
-msgstr ""
+msgstr "4/22/2024 7:46 AM"
 
 #. Node: node160 / User Data Title
 #. Node: node160 / User Data Description
 msgid "Drone Sunrise 5"
-msgstr ""
+msgstr "Drone Sunrise 5"
 
 #. Node: node160 / User Data Date && Time
 msgid "4/22/2024 7:50 AM"
-msgstr ""
+msgstr "4/22/2024 7:50 AM"
 
 #. Node: node161 / User Data Title
 #. Node: node161 / User Data Description
 msgid "Drone Sunrise 6"
-msgstr ""
+msgstr "Drone Sunrise 6"
 
 #. Node: node161 / User Data Date && Time
 msgid "4/22/2024 7:52 AM"
-msgstr ""
+msgstr "4/22/2024 7:52 AM"
 
 #. Node: node162 / User Data Title
 #. Node: node162 / User Data Description
 msgid "Drone Sunrise 7"
-msgstr ""
+msgstr "Drone Sunrise 7"
 
 #. Node: node162 / User Data Date && Time
 msgid "4/22/2024 8:00 AM"
-msgstr ""
+msgstr "4/22/2024 8:00 AM"
 
 #. Node: node163 / User Data Title
 #. Node: node163 / User Data Description
 msgid "Drone Sunrise 8"
-msgstr ""
+msgstr "Drone Sunrise 8"
 
 #. Node: node163 / User Data Date && Time
 msgid "4/22/2024 8:01 AM"
-msgstr ""
+msgstr "4/22/2024 8:01 AM"
 
 #. Node: node164 / User Data Title
 #. Node: node164 / User Data Description
 msgid "Drone Sunrise 9"
-msgstr ""
+msgstr "Drone Sunrise 9"
 
 #. Node: node164 / User Data Date && Time
 msgid "4/22/2024 8:03 AM"
-msgstr ""
+msgstr "4/22/2024 8:03 AM"
 
 #. Node: node165 / User Data Title
 #. Node: node165 / User Data Description
 msgid "Drone Sunrise 10"
-msgstr ""
+msgstr "Drone Sunrise 10"
 
 #. Node: node165 / User Data Date && Time
 msgid "4/22/2024 8:05 AM"
-msgstr ""
+msgstr "4/22/2024 8:05 AM"
 
 #. Node: node166 / User Data Title
 #. Node: node166 / User Data Description
 msgid "Drone Sunrise 11"
-msgstr ""
+msgstr "Drone Sunrise 11"
 
 #. Node: node166 / User Data Date && Time
 msgid "4/22/2024 8:06 AM"
-msgstr ""
+msgstr "4/22/2024 8:06 AM"
 
 #. Node: node167 / User Data Title
 #. Node: node167 / User Data Description
 msgid "Drone Sunrise 12"
-msgstr ""
+msgstr "Drone Sunrise 12"
 
 #. Node: node167 / User Data Date && Time
 msgid "4/22/2024 8:08 AM"
-msgstr ""
+msgstr "4/22/2024 8:08 AM"
 
 #. Node: node168 / User Data Title
 #. Node: node168 / User Data Description
 msgid "Drone Sunrise Entrance"
-msgstr ""
+msgstr "Drone Sunrise Entrance"
 
 #. Node: node168 / User Data Date && Time
 msgid "4/22/2024 7:55 AM"
-msgstr ""
+msgstr "4/22/2024 7:55 AM"
 
 #. Node: node169 / User Data Title
 #. Node: node169 / User Data Description
 msgid "Drone Sunrise Entrance 2"
-msgstr ""
+msgstr "Drone Sunrise Entrance 2"
 
 #. Node: node169 / User Data Date && Time
 msgid "4/22/2024 7:53 AM"
-msgstr ""
+msgstr "4/22/2024 7:53 AM"
 
 #. Node: node170 / User Data Date && Time
 msgid "2024:04:23 06:21:56"
-msgstr ""
+msgstr "2024:04:23 06:21:56"
 
 #. Node: node171 / User Data Date && Time
 msgid "2024:04:23 06:21:06"
-msgstr ""
+msgstr "2024:04:23 06:21:06"
 
 #. Node: node172 / User Data Date && Time
 msgid "2024:04:23 06:20:26"
-msgstr ""
+msgstr "2024:04:23 06:20:26"
 
 #. Node: node173 / User Data Date && Time
 msgid "2024:04:23 06:19:26"
-msgstr ""
+msgstr "2024:04:23 06:19:26"
 
 #. Node: node174 / User Data Date && Time
 msgid "2024:04:23 06:18:30"
-msgstr ""
+msgstr "2024:04:23 06:18:30"
 
 #. Node: node175 / User Data Date && Time
 msgid "2024:04:23 06:17:00"
-msgstr ""
+msgstr "2024:04:23 06:17:00"
 
 #. Node: node176 / User Data Date && Time
 msgid "2024:04:23 06:15:42"
-msgstr ""
+msgstr "2024:04:23 06:15:42"
 
 #. Node: node177 / User Data Date && Time
 msgid "2024:04:23 06:14:27"
-msgstr ""
+msgstr "2024:04:23 06:14:27"
 
 #. Node: node178 / User Data Date && Time
 msgid "2024:04:23 06:12:06"
-msgstr ""
+msgstr "2024:04:23 06:12:06"
 
 #. Node: node179 / User Data Date && Time
 msgid "2024:04:23 06:10:12"
-msgstr ""
+msgstr "2024:04:23 06:10:12"
 
 #. Node: node180 / User Data Date && Time
 msgid "2024:04:23 06:07:33"
-msgstr ""
+msgstr "2024:04:23 06:07:33"
 
 #. Node: node181 / User Data Date && Time
 msgid "2024:04:23 06:05:56"
-msgstr ""
+msgstr "2024:04:23 06:05:56"
 
 #. Node: node182 / User Data Date && Time
 msgid "2024:04:23 06:05:05"
-msgstr ""
+msgstr "2024:04:23 06:05:05"
 
 #. Node: node183 / User Data Date && Time
 msgid "2024:04:23 06:03:49"
-msgstr ""
+msgstr "2024:04:23 06:03:49"
 
 #. Node: node184 / User Data Date && Time
 msgid "2024:04:23 06:02:43"
-msgstr ""
+msgstr "2024:04:23 06:02:43"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
-msgstr ""
+msgstr "Enter VR"
 
 #. Context Menu Default Entry
 msgid "Enter Fullscreen"
-msgstr ""
+msgstr "Enter Fullscreen"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr ""
+msgstr "Exit Fullscreen"
